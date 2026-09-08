@@ -1,3 +1,5 @@
+# setup-check
+
 PS C:\Users\sihan\OneDrive\Desktop\d4d-practice> git --version
 git version 2.55.0.windows.5
 PS C:\Users\sihan\OneDrive\Desktop\d4d-practice> git config --get user.name

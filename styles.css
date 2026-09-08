@@ -1,0 +1,60 @@
+/* Sixth Ward Tool Library
+   Starter stylesheet for Week 2. This is deliberately unfinished.
+   You are not being asked to finish it. It exists so you have
+   something real to change, break, and get back. */
+
+body {
+  margin: 0;
+  padding: 0 24px 48px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 17px;
+  line-height: 1.6;
+  color: #1c1c1c;
+}
+
+.site-header {
+  background-color: #f0ece4;
+  padding: 20px 24px;
+  margin: 0 -24px 32px;
+}
+
+.site-name {
+  margin: 0 0 8px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.site-nav a {
+  margin-right: 18px;
+  color: #1c1c1c;
+}
+
+h1 {
+  font-size: 32px;
+  line-height: 1.2;
+  margin: 0 0 12px;
+}
+
+.intro {
+  max-width: 60ch;
+  margin: 0 0 32px;
+}
+
+.tool-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.tool {
+  border-top: 1px solid #d6d0c4;
+  padding: 16px 0;
+}
+
+.tool h2 {
+  font-size: 20px;
+  margin: 0 0 4px;
+}
+
+/* Unfinished from here down. The category and status lines are not
+   styled at all yet, and the footer has no rules. */
